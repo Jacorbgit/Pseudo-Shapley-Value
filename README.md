@@ -18,4 +18,4 @@ This is the program that takes in a model and produces a bar plot that conveys t
 
 ## Feature_Effects_on_output.png
 
-This visual shows which variables the program found to be relevant. As we see X1, X2, and X3 have a very strong influence on the model’s output while X4 and X5 do not. This agrees with how the data was initially designed. 
+This visual shows which variables the program found to be relevant. As we see X1, X2, and X3 have a very strong influence on the model’s output while X4 and X5 do not. This agrees with how the data was initially designed so I can be confident that my program is running correclty and will give me accurate information on the models I run it on!!!

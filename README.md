@@ -2,6 +2,7 @@
 This is a python program I wrote that calculates the strength of influence of features (pseudo-Shapley values) for machine learning algorithms built in python.
 This is a program that takes in a dataframe, a machine learning model, and a specified number of iterations, as arguments. The code returns a bar plot with the column names on the x-axis and corresponding feature strength of effects on the y-axis. This can be used to determine which independent variables are important in a machine learning algorithm and which ones are less influential and may be irrelevant. This is process is model agnostic thus can be applied to almost any machine learning algorithm (ie neural networks, linear regression, random forest, XG boosted trees 
 etc.) 
+CONTACT: For any questons feel free to contact me directly at 702-773-4132
 # Explanation of Files in this Repository:
 
 ## Making_Sample_Data.py

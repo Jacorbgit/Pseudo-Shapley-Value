@@ -12,6 +12,8 @@ Making a sample dataset to test the program on (lines 11-43). I then make a mode
 
 This is the summary of the model created in [Making_Sample_Data.py]. I made the 3 of the five independent variables (X1, X2, X3)  statistically significant (aka informative) hence their small p-values. If I wrote the program correctly these three variables should have large values since they are literally designed to have a large strength of influence on the model’s predictions. The other two variables (X4, X5) should have small values because the model does not take their influence into consideration when making predictions. 
 
+![](Sample_data_regression_summary.png)
+
 ## Shapley_Value_function.py
 
 This is the program that takes in a model and produces a bar plot that conveys the strength of influence of each variable. Variables with higher strengths of influence are interpreted to be more informative, important, and overall more relevant to the model’s predictions while variables with lower strength of influence are interpreted to be less informative (and oftentimes can be removed from the model altogether). 
